@@ -1,0 +1,22 @@
+h1 {
+	color: #FFde00;
+}
+
+p{
+	color:#9b111e;
+	font-size: 20px;
+}
+
+.crys-img {
+	width: 100px;
+	height: 100px;
+}
+
+body {
+	background: url("https://goo.gl/R6jZ49") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
